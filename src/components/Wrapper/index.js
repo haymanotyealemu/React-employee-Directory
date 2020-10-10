@@ -1,9 +1,11 @@
-import React, { Children } from "react";
+import React from "react";
 import "./Wrapper.css";
 
-function Wrapper({Children}) {
+function Wrapper({ children }) {
     return(
-        <div className="wrapper" >{ Children}</div>
+        <div className="wrapper" >
+            { children}
+        </div>
     );
 }
 
