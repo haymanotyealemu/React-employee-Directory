@@ -14,11 +14,11 @@ This app also use an API to populate random users and then create a directory. O
 
 ## Usage
     The application is deployed on Githab pages here:
-    * https://haymanotyealemu.github.io/React-employee-Directory/
+* https://haymanotyealemu.github.io/React-employee-Directory/
 ![gify](./public/employee-directory.gif)
 ## Credits
-*https://reactjs.org/docs/getting-started.html
-*https://chrisachard.com/use-react-hooks-correctly-with-these-two-rules
+* https://reactjs.org/docs/getting-started.html
+* https://chrisachard.com/use-react-hooks-correctly-with-these-two-rules
 
 
 
